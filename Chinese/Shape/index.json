@@ -192,5 +192,16 @@
       ],
       "license": "LGPL-3.0-only"
     }
+    {
+      "repo": "gaboolic/rime-shuangpin-fuzhuma",
+      "name": "墨奇音形",
+      "schemas": [
+        "moqi_xh",
+        "moqi_zrm",
+        "flypy_flypy",
+        "moqi_single_xh",
+      ],
+      "license": "MIT License"
+    }
   ]
 }
