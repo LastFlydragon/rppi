@@ -196,9 +196,7 @@
       "repo": "gaboolic/rime-shuangpin-fuzhuma",
       "name": "墨奇音形",
       "schemas": [
-        "moqi_single_xh"
-      ],
-      "schemas": [
+        "moqi_xh",
         "moqi_zrm"
       ],
       "license": "MIT License"
